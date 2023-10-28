@@ -4,7 +4,7 @@ const { execSync } = require("child_process");
 
 console.log("Uploading assets to S3...");
 execSync(
-  `aws s3 sync build/assets s3://encrypt37.com/assets --delete --cache-control max-age=31536000,public`
+  `aws s3 sync build/assets s3://encrypt37.com/assets --cache-control max-age=31536000,public`
 );
 console.log("Upload assets to S3 completed.");
 

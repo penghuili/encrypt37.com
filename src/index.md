@@ -2,15 +2,15 @@
 title: 'Encrypt37: Safe corner for your words and files.'
 ---
 
-<a href="https://www.producthunt.com/posts/encrypt37?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-encrypt37" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=418999&theme=light" alt="Encrypt37 - Safe&#0032;corner&#0032;for&#0032;your&#0032;words&#0032;and&#0032;files | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<img src="/assets/encrypt37-logo-231017.png" alt="Encrypt37 logo" width="150px" />
 
-# Do you feel comfortable sending your personal data to their servers, without encryption?
+Do you feel comfortable sending your personal data to their servers, without encryption?
 
 <br />
 
-## With Encrypt37, nobody, even those who have access to the database, can read your data.
+With Encrypt37, nobody, even those who have access to the database, can read your data.
 
-### Because all your words and files are encrypted on your device before they are sent to the server.
+Because all your words and files are encrypted on your device before they are sent to the server.
 
 <br />
 <br />
@@ -52,13 +52,11 @@ And check the [source code](https://github.com/penghuili/File37)
 <br />
 <br />
 
-# AND
+# Dance like nobody's watching
 
-### No ads.
+<br />
 
-### No tracking.
-
-### No AI (Proudly).
+<img src="/assets/dance.gif" alt="Dance like nobody's watching" width="340px" />
 
 <br />
 <br />
@@ -68,51 +66,69 @@ And check the [source code](https://github.com/penghuili/File37)
 <br />
 <br />
 
-# AND
+AND
 
-### View all posts in a timeline
+No ads.
 
-<img src="/assets/encrypt37-1.png" alt="View all posts in a timeline" width="340px" />
+No tracking.
+
+No AI (Proudly).
+
+<br />
+<br />
+
+---
+
+<br />
+<br />
+
+AND
+
+View all posts in a timeline
+
+<img src="/assets/encrypt37-1-231017.png" alt="View all posts in a timeline" width="340px" />
 
 <br />
 <br />
 <br />
 
-### Write long post with images
+Write long post with images
 
-<img src="/assets/encrypt37-2.png" alt="Write long post with images" width="340px" />
-
-<br />
-<br />
-<br />
-
-### Organize posts with tags and filter by time range
-
-<img src="/assets/encrypt37-3.png" alt="Organize posts with tags" width="340px" />
+<img src="/assets/encrypt37-2-231017.png" alt="Write long post with images" width="340px" />
 
 <br />
 <br />
 <br />
 
-### Today in history
+Organize posts with tags
 
-<img src="/assets/encrypt37-5.png" alt="Today in history" width="340px" />
+Filter by time range
 
-<br />
-<br />
-<br />
-
-### Export post as PDF
-
-<img src="/assets/encrypt37-6.png" alt="Export post as PDF" width="340px" />
+<img src="/assets/encrypt37-3-231017.png" alt="Organize posts with tags" width="340px" />
 
 <br />
 <br />
 <br />
 
-### One click to cover your screen (Close the door!)
+Today in history
 
-<img src="/assets/encrypt37-4.png" alt="One click to cover your screen (Close the door!)" width="340px" />
+<img src="/assets/encrypt37-4-231017.png" alt="Today in history" width="340px" />
+
+<br />
+<br />
+<br />
+
+Export post as PDF
+
+<img src="/assets/encrypt37-5-231017.png" alt="Export post as PDF" width="340px" />
+
+<br />
+<br />
+<br />
+
+One click to cover your screen
+
+<img src="/assets/encrypt37-6-231017.png" alt="One click to cover your screen" width="340px" />
 
 <br />
 <br />
@@ -121,13 +137,15 @@ And check the [source code](https://github.com/penghuili/File37)
 
 <br />
 
-## Pricing
+Pricing
+
+<br />
 
 600GB of storage.
 
 14 days free trial.
 
-Then only **$6** per month or **$60** per year.
+Then only **$6** per month or **$60** per year (SAVE 16.6%).
 
 <br />
 

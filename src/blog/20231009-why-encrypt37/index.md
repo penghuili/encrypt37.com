@@ -21,7 +21,7 @@ All contents are encrypted before sending to server, so even those who have acce
 
 That's what Encrypt37 does, and Encrypt37 open-sources its code.
 
-Source code: [https://github.com/penghuili/File37](https://github.com/penghuili/File37)
+Source code: [https://github.com/penghuili/Encrypt37](https://github.com/penghuili/Encrypt37)
 
 More about encryption: [https://encrypt37.com/encryption/](https://encrypt37.com/encryption/)
 

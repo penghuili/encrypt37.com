@@ -42,7 +42,7 @@ or files like this [file37_file_20230928203743_taIqMr7cfR1.p37](https://encrypt3
 
 Learn more about [encryption](/encryption/)
 
-And check the [source code](https://github.com/penghuili/File37)
+And check the [source code](https://github.com/penghuili/Encrypt37)
 
 <br />
 <br />

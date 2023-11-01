@@ -6,6 +6,7 @@ backUrl: /
 
 Posts:
 
+- [Save state locally](/blog/20231101-save-state-locally) - 2023-11-01
 - [How to protect my authenticator app?](/blog/20231021-how-to-protect-authenticator-app) - 2023-10-25
 - [Why Encrypt37?](/blog/20231009-why-encrypt37) - 2023-10-09
 - [How to deploy React app to AWS S3 without cache problems?](/blog/20230925-deploy-react-app-to-aws-s3-without-cache-problems) - 2023-09-25
